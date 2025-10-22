@@ -53,7 +53,7 @@
 | Projeto | Descrição |
 | :-----: | --------- |
 | [java-product-management](https://github.com/HenriquePsDev/java-product-management) | CRUD de produtos com Java, JDBC e MySQL. |
-| [dashboard-vendas](https://hhn2w2rursrbtnwbme9eph.streamlit.app) | Dashboard interativo de vendas desenvolvido com Streamlit, Pandas e Plotly. *(O carregamento inicial pode demorar alguns segundos devido ao plano gratuito do Streamlit Cloud.)* |
+| [dashboard-vendas](https://btbmyothmr8n7vf5v8j6ah.streamlit.app/dataframe) | Dashboard interativo de vendas desenvolvido com Streamlit, Pandas e Plotly. *(O carregamento inicial pode demorar alguns segundos devido ao plano gratuito do Streamlit Cloud.)* |
 
 ---
 
